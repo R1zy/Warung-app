@@ -29,4 +29,5 @@ $conn->close();
 
 // Beri redirect disini setelah data masuk
 header("Location: index.html");
+exit;
 ?>
